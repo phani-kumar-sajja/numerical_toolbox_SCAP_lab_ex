@@ -4,4 +4,4 @@ sum_list = sum(my_list)
 print(sum_list)
 
 def new_func():
-    return 10
+    return "master branch"
